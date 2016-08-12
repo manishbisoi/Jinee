@@ -1,0 +1,32 @@
+a = ['amazon' , 'alarm']
+b = ['battery']
+c = ['calendar', 'calculator','caffe','contacts']
+d = ['document','download','dropbox']
+e = ['explorer','ebay']
+f = ['facebook' , 'flipkart', 'fortune']
+g = ['google','google drive', 'gmail', 'google plus','git']
+h = ['help']
+i = []
+j = ['joke']
+k = []
+l = ['location']
+m = ['mahajong','map', 'music', 'movie']
+n = ['news']
+o = ['office']
+p = ['power','pocket']
+q = ['quora']
+r = ['restaurant']
+s = ['sudoku','shutdown','snapdeal']
+t = ['terminal', 'torrent', 'trash', 'text editor','twitter']
+u = ['ubuntu', 'unmount']
+v = ['volume', 'vlc']
+w = ['weather', 'web browser']
+x = ['wifi', 'wikipedia']
+y = ['youtube']
+z = []
+
+dic = [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
+
+for i in dic:
+	for shit in i:
+		f = open()
